@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <group android:checkableBehavior="single">
+        
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@android:drawable/ic_menu_view"
+            android:title="Home" />
+            
+        <item
+            android:id="@+id/nav_prayer_times"
+            android:icon="@android:drawable/ic_menu_recent_history"
+            android:title="@string/prayer_times" />
+            
+        <item
+            android:id="@+id/nav_tasbih"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="@string/tasbih_counter" />
+            
+        <item
+            android:id="@+id/nav_qibla"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="@string/qibla_compass" />
+            
+    </group>
+    
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_bookmarks"
+                android:icon="@android:drawable/btn_star"
+                android:title="Bookmarks" />
+                
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@android:drawable/ic_menu_preferences"
+                android:title="@string/settings" />
+                
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="@string/about" />
+        </menu>
+    </item>
+    
+</menu>

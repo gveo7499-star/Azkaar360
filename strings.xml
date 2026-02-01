@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Azkaar360</string>
+    
+    <!-- Main Menu -->
+    <string name="morning_azkar">Morning Azkar</string>
+    <string name="evening_azkar">Evening Azkar</string>
+    <string name="after_prayer">After Prayer</string>
+    <string name="sleeping_azkar">Sleeping Azkar</string>
+    <string name="waking_azkar">Waking Up Azkar</string>
+    <string name="general_duas">General Duas</string>
+    <string name="prayer_times">Prayer Times</string>
+    <string name="tasbih_counter">Tasbih Counter</string>
+    <string name="qibla_compass">Qibla Compass</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Common -->
+    <string name="read">Read</string>
+    <string name="listen">Listen</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="arabic">Arabic</string>
+    <string name="urdu">اردو</string>
+    <string name="english">English</string>
+    <string name="transliteration">Transliteration</string>
+    
+    <!-- Prayer Times -->
+    <string name="fajr">Fajr</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    
+    <!-- Tasbih -->
+    <string name="subhanallah">سُبْحَانَ اللهِ</string>
+    <string name="alhamdulillah">الْحَمْدُ لِلَّهِ</string>
+    <string name="allahuakbar">اللهُ أَكْبَرُ</string>
+    <string name="reset">Reset</string>
+    <string name="counter">Counter</string>
+    
+    <!-- Settings -->
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+    <string name="rate_app">Rate App</string>
+    
+    <!-- Permissions -->
+    <string name="location_permission">Location permission needed for Prayer Times and Qibla</string>
+    <string name="grant_permission">Grant Permission</string>
+</resources>
